@@ -1,4 +1,4 @@
-let words=["cards/1.PNG", "cards/2.PNG", "cards/3.PNG", "cards/4.PNG", "cards/5.PNG", "cards/6.PNG", "cards/7.PNG", "cards/8.PNG"];
+let words=["./cards/1.PNG", "./cards/2.PNG", "./cards/3.PNG", "./cards/4.PNG", "./cards/5.PNG", "./cards/6.PNG", "./cards/7.PNG", "./cards/8.PNG"];
 words=[...words, ...words];
 let moves=30;
 let matches=0;
